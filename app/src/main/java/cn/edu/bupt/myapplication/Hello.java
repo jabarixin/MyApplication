@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 /**
- * Created by Jabari on 2015/10/19.
+ * Created by Jabari on 2015/10/19.dev
  */
 public class Hello extends Activity {
     private TextView tvHello;
